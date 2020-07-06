@@ -1,4 +1,4 @@
-
+<div dir="rtl">
 #  So you think you can design!🤩
 
 ## اختار تطبيق واحد و قم بتصميم 
@@ -21,3 +21,4 @@ https://dribbble.com/
 
 https://www.flaticon.com/
 
+</div>
